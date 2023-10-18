@@ -1,0 +1,36 @@
+.container__big-card {
+  margin-left: 20px;
+  margin-right: 20px;
+  height: 400px;
+  width: 400px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.big-card__title{
+   margin-top: 15px;
+}
+
+.big-card__title > h1 > a{
+
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.big-card__desc {
+  margin-top: 10px;
+}
+
+
+.big-card__desc > a{
+
+  color: #595959;
+  text-decoration: none;
+}
+
+.big-card__photo > img{
+  width: 100%;
+  min-width: 400px;
+
+}
