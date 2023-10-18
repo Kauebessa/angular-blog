@@ -9,3 +9,7 @@ header{
   display: flex;
   justify-content: center;
 }
+
+.articles__main__destaque{
+  margin-bottom: 90px;
+}
